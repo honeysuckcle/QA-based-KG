@@ -1,0 +1,47 @@
+Date : 2021-05-24 00:00:24
+Directory : d:\UndergraduateGraduationDesign\my_QA_system\kg_bot
+Total : 17 files,  830 codes, 121 comments, 196 blanks, all 1147 lines
+
+Languages
++----------+------------+------------+------------+------------+------------+
+| language | files      | code       | comment    | blank      | total      |
++----------+------------+------------+------------+------------+------------+
+| Python   |         17 |        830 |        121 |        196 |      1,147 |
++----------+------------+------------+------------+------------+------------+
+
+Directories
++-----------------------------------------------------------------------------------------------+------------+------------+------------+------------+------------+
+| path                                                                                          | files      | code       | comment    | blank      | total      |
++-----------------------------------------------------------------------------------------------+------------+------------+------------+------------+------------+
+| .                                                                                             |         17 |        830 |        121 |        196 |      1,147 |
+| brain                                                                                         |          6 |        526 |         55 |        120 |        701 |
+| brain\flag_classify                                                                           |          2 |         65 |          1 |         18 |         84 |
+| data_prepare                                                                                  |          6 |        142 |         40 |         30 |        212 |
+| db                                                                                            |          2 |         48 |          7 |         14 |         69 |
+| experiment                                                                                    |          1 |         51 |          4 |         11 |         66 |
+| test                                                                                          |          1 |         10 |          0 |          4 |         14 |
++-----------------------------------------------------------------------------------------------+------------+------------+------------+------------+------------+
+
+Files
++-----------------------------------------------------------------------------------------------+----------+------------+------------+------------+------------+
+| filename                                                                                      | language | code       | comment    | blank      | total      |
++-----------------------------------------------------------------------------------------------+----------+------------+------------+------------+------------+
+| d:\UndergraduateGraduationDesign\my_QA_system\kg_bot\brain\flag_classify\create_train_data.py | Python   |         65 |          1 |         17 |         83 |
+| d:\UndergraduateGraduationDesign\my_QA_system\kg_bot\brain\flag_classify\train.py             | Python   |          0 |          0 |          1 |          1 |
+| d:\UndergraduateGraduationDesign\my_QA_system\kg_bot\brain\function.py                        | Python   |        199 |         12 |         46 |        257 |
+| d:\UndergraduateGraduationDesign\my_QA_system\kg_bot\brain\nlp.py                             | Python   |         93 |         15 |         28 |        136 |
+| d:\UndergraduateGraduationDesign\my_QA_system\kg_bot\brain\say.py                             | Python   |        102 |         21 |         14 |        137 |
+| d:\UndergraduateGraduationDesign\my_QA_system\kg_bot\brain\template.py                        | Python   |         67 |          6 |         14 |         87 |
+| d:\UndergraduateGraduationDesign\my_QA_system\kg_bot\data_prepare\compare.py                  | Python   |          6 |          0 |          3 |          9 |
+| d:\UndergraduateGraduationDesign\my_QA_system\kg_bot\data_prepare\get_baidu_keywords.py       | Python   |         58 |         38 |         16 |        112 |
+| d:\UndergraduateGraduationDesign\my_QA_system\kg_bot\data_prepare\get_w3cschool_book.py       | Python   |         20 |          2 |          4 |         26 |
+| d:\UndergraduateGraduationDesign\my_QA_system\kg_bot\data_prepare\mfile.py                    | Python   |         16 |          0 |          0 |         16 |
+| d:\UndergraduateGraduationDesign\my_QA_system\kg_bot\data_prepare\relation_class.py           | Python   |         12 |          0 |          5 |         17 |
+| d:\UndergraduateGraduationDesign\my_QA_system\kg_bot\data_prepare\update_user_dict.py         | Python   |         30 |          0 |          2 |         32 |
+| d:\UndergraduateGraduationDesign\my_QA_system\kg_bot\db\searchNeo4j.py                        | Python   |         22 |          2 |          7 |         31 |
+| d:\UndergraduateGraduationDesign\my_QA_system\kg_bot\db\setNeo4j.py                           | Python   |         26 |          5 |          7 |         38 |
+| d:\UndergraduateGraduationDesign\my_QA_system\kg_bot\experiment\EX_name_length.py             | Python   |         51 |          4 |         11 |         66 |
+| d:\UndergraduateGraduationDesign\my_QA_system\kg_bot\kg_bot.py                                | Python   |         53 |         15 |         17 |         85 |
+| d:\UndergraduateGraduationDesign\my_QA_system\kg_bot\test\test_nlp.py                         | Python   |         10 |          0 |          4 |         14 |
+| Total                                                                                         |          |        830 |        121 |        196 |      1,147 |
++-----------------------------------------------------------------------------------------------+----------+------------+------------+------------+------------+

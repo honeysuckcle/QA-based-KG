@@ -1,0 +1,137 @@
+用户界面测试	定义	用户界面测试英文名为User interface testing，简称UI测试，测试用户界面的功能模块的布局是否合理，整体风格是否一致和各个控件的放置位置是否符合客户使用习惯，更重要的是要符合操作便捷，导航简单易懂，界面中文字是否正确，命名是否统一，页面是否美观，文字、图片组合是否完美等等
+用户界面测试	外文名	User interface testing
+用户界面测试	简称	UI测试
+用户界面测试	作用	判断是否合理
+点检	定义	所谓的点检制，是按照一定的标准、一定周期、对设备规定的部位进行检查，以便早期发现设备故障隐患，及时加以修理调整，使设备保持其规定功能的设备管理方法
+点检	定点	设定检查的部位、项目和内容
+点检	定法	定点检检查方法是采用五感
+点检	定标	制订维修标准；
+点检	定期	设定检查的周期
+点检	定人	确定点检项目由谁实施
+B/S结构	定义	B/S结构（Browser/Server，浏览器/服务器模式），是WEB兴起后的一种网络结构模式，WEB浏览器是客户端最主要的应用软件
+B/S结构	外文名	Browser/Server
+B/S结构	类型	浏览器/服务器模式
+B/S结构	应用	WEB浏览器
+B/S结构	功能	简化了系统的开发、维护和使用
+B/S结构	途径	Web Server
+用户接口	定义	用户接口（User Interface，简称 UI）是系统和用户之间进行交互和信息交换的媒介，它实现信息的内部形式与人类可以接受形式之间的转换
+用户接口	外文名	User Interface
+导航条	定义	导航条是网页设计中不可缺少的部分，它是指通过一定的技术手段，为网站的访问者提供一定的途径，使其可以方便地访问到所需的内容，使人们浏览网站时可以快速从一个页面转到另一个页面的快速通道
+导航条	地位	网页设计中不可缺少的部分
+导航条	定义	为网站的访问者提供一定的途径
+导航条	目的	让网站的层次结构清晰展示
+黑体字	定义	black letter(character)，由于黑体字笔划整齐划一，所以它只能是一种装饰字体，而不是书法
+黑体字	外文名	black letter
+黑体字	适用场合	印刷、书面报告
+黑体字	特点	笔画粗壮
+黑体字	平台	Windows系统
+黑体字	代表字体	微软雅黑、微软正黑体、华文细黑
+调查问卷	定义	调查问卷又称调查表或询问表，是以问题的形式系统地记载调查内容的一种印件
+调查问卷	外文名	questionnaire
+调查问卷	又称	调查表或询问表
+调查问卷	形式	表格式、卡片式或簿记式
+调查问卷	关键	设计问卷
+设备点检制	定义	所谓的点检制，是按照一定的标准、一定周期、对设备规定的部位进行检查，以便早期发现设备故障隐患，及时加以修理调整，使设备保持其规定功能的设备管理方法
+设备点检制	目的	早期发现设备故障隐患
+设备点检制	性质	科学
+设备点检制	类别	物理
+定量	定义	定量属性是指以数量形式存在着的属性，并因此可以对其进行测量
+定量	外文名	Quantity
+定量	领域	数学
+设备检测	定义	设备检测一般是指采用各类检测仪器对设备各项指标进行检测，以达到保障安全使用的目的
+web	定义	web（World Wide Web）即全球广域网，也称为万维网，它是一种基于超文本和HTTP的、全球性的、动态交互的、跨平台的分布式图形信息系统
+web	外文名	web
+web	全称	World Wide Web
+web	表现形式	超文本、超媒体、超文本传输协议
+web	别称	万维网
+web	属性	分布式图形信息系统
+服务器	定义	服务器是计算机的一种，它比普通计算机运行更快、负载更高、价格更贵
+服务器	外文名	server
+服务器	别名	伺服器
+服务器	分类	文件、数据库及应用程序服务器
+服务器	构成	cpu、芯片组、内存、磁盘系统等
+服务器	特性	可扩展、易使用、可用、易管理
+服务器	外形	刀片式、塔式、机柜式等
+网景导航者	定义	网景领航员（Netscape Navigator）又称导航者，是网景公司开发的网络浏览器，简称是NN，名称正式被用在1.0-4.08版的部份
+网景导航者	外文名	Netscape Navigator
+网景导航者	又称	导航者
+网景导航者	简称	NN
+Internet Explorer	定义	Internet Explorer（简称：IE）是微软公司推出的一款网页浏览器
+Internet Explorer	软件名称	Internet Explorer
+Internet Explorer	软件平台	Windows
+Internet Explorer	最近更新时间	2020年11月10日
+
+Internet Explorer	软件语言	多国语言（含中文）
+Internet Explorer	开发商	美国微软公司（Microsoft Corporation）
+Internet Explorer	软件授权	专有软件
+Internet Explorer	软件版本	11.630.19041.0
+Internet Explorer	英文缩写	IE
+Microsoft SQL Server	定义	SQL Server 是Microsoft 公司推出的关系型数据库管理系统
+Microsoft SQL Server	外文名	SQL Server
+Microsoft SQL Server	分类	关系型数据库管理系统标准语言
+Microsoft SQL Server	公司	美国Microsoft公司
+Microsoft SQL Server	优点	使用方便可伸缩性好等
+Microsoft SQL Server	应用平台	Microsoft Windows 98 、Microsoft Windows 2012
+Microsoft SQL Server	工具	BI
+甲骨文公司	定义	甲骨文公司，全称甲骨文股份有限公司(甲骨文软件系统有限公司)，是全球最大的企业级软件公司，总部位于美国加利福尼亚州的红木滩
+甲骨文公司	公司名称	甲骨文股份有限公司
+甲骨文公司	外文名	Oracle
+甲骨文公司	成立时间	加利福尼亚(1977年)
+甲骨文公司	总部地点	美国加州红木城
+甲骨文公司	经营范围	数据库软件
+甲骨文公司	公司类型	上市公司
+甲骨文公司	公司口号	信息驱动
+甲骨文公司	年营业额	395.06 亿美元(2020年)
+
+甲骨文公司	员工数	137000（2019年）
+
+甲骨文公司	公司规模	世界百强
+甲骨文公司	CEO	马克·赫德
+甲骨文公司	官网	http://www.oracle.com/
+mySQL	定义	MySQL是一个关系型数据库管理系统，由瑞典MySQL AB 公司开发，属于 Oracle 旗下产品
+mySQL	外文名	MySQL
+mySQL	类型	关系型数据库管理系统
+mySQL	所属	Oracle
+
+mySQL	开发公司	瑞典MySQL AB 公司
+mySQL	使用语言	SQL 语言
+web server	定义	Web Server中文名称叫网页服务器或web服务器
+web server	外文名	web server
+web server	别名	WWW(WORLD WIDE WEB)服务器
+web server	主要功能	提供网上信息浏览服务
+web server	主要产品	kangle、nginx、apache等
+www	定义	万维网WWW是World Wide Web的简称，也称为Web、3W等
+www	外文名	World Wide Web
+www	别名	环球信息网
+www	外语简称	WWW或Web
+www	包括	Web客户端和Web服务器
+www	成立时间	1994年10月
+www	创建者	蒂姆·伯纳斯-李
+服务器-客户机	定义	服务器-客户机，即Client-Server(C/S)结构
+服务器-客户机	外文名	Server-Client
+浏览器/服务器结构	定义	这种结构在20世纪90年代末期开始盛行，是目前最流行的网络软件系统结构，它正逐渐取代客户机/服务器结构（c/s)，成为网络软件开发商的首选
+服务器-客户机	定义	服务器-客户机，即Client-Server(C/S)结构
+服务器-客户机	外文名	Server-Client
+浏览器	定义	浏览器是用来检索、展示以及传递Web信息资源的应用程序
+浏览器	外文名	Web browser
+浏览器	创始人	蒂姆·伯纳斯-李
+浏览器	首个浏览器	WorldWideWeb
+浏览器	创立时间	1990年
+浏览器	著名代表	Chrome、Safari、Firefox 等
+浏览器	领域	信息科学
+客户端	定义	客户端（Client）或称为用户端，是指与服务器相对应，为客户提供本地服务的程序
+客户端	外文名	Client
+客户端	别名	用户端
+客户端	对应项	服务端
+客户端	定义	接受服务的另一方
+客户端	示例	打印服务
+客户端	应用	游戏、移动（如：手机）等
+WEB服务器	定义	Web服务器一般指网站服务器，是指驻留于因特网上某种类型计算机的程序，可以处理浏览器等Web客户端的请求并返回相应响应，也可以放置网站文件，让全世界浏览；可以放置数据文件，让全世界下载
+WEB服务器	外文名	Web Server
+WEB服务器	其他名字	WWW(WORLD WIDE WEB)服务器
+结构化查询语言	定义	结构化查询语言（Structured Query Language）简称SQL，是一种特殊目的的编程语言，是一种数据库查询和程序设计语言，用于存取数据以及查询、更新和管理关系数据库系统
+结构化查询语言	外文名	Structured Query Language
+结构化查询语言	通过时间	1986年10月
+结构化查询语言	所属领域	数据库
+结构化查询语言	持续时间	34年经久不衰
+结构化查询语言	是否区分大小写	否

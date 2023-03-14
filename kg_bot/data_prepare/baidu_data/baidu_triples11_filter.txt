@@ -1,0 +1,18 @@
+恢复测试	定义	恢复测试主要检查系统的容错能力
+自动恢复	定义	出故障时自动恢复
+自动恢复	外文名	Failback
+自动恢复	定义	出故障时自动恢复
+自动恢复	对象	指电子设备
+平均修复时间	定义	平均修复时间（Mean time to repair，MTTR），是描述产品由故障状态转为工作状态时修理时间的平均值
+平均修复时间	外文名	Mean time to repair，MTTR
+平均修复时间	简称	MTTR
+平均修复时间	应用	维护合约
+平均修复时间	属性	专业名词
+平均修复时间	应用学科	计算机原理
+MTBF	定义	MTBF，即平均无故障工作时间，英文全称是“Mean Time Between Failure”
+MTBF	外文名	Mean Time Between Failure
+MTBF	别名	平均故障发生间隔时间
+MTBF	简称	MTBF
+MTBF	作用	衡量产品可靠性的指标
+MTBF	单位	小时
+MTBF	反映	产品的时间质量
